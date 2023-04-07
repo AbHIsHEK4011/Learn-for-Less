@@ -1,5 +1,4 @@
-# Team-54
-### Learn for Less (LFL)
+# Learn for Less (LFL)
 
 Domain- AI & Data Analytics
 
